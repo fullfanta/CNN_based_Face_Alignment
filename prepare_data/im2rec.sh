@@ -1,0 +1,2 @@
+../../../program_installation/mxnet/bin/im2rec training_data.lst ./ training_data.rec label_width=136 pack_label=1
+../../../program_installation/mxnet/bin/im2rec test_data.lst ./ test_data.rec label_width=136 pack_label=1

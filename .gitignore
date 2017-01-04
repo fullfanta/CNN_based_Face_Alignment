@@ -1,0 +1,15 @@
+*.pyc
+original_images/300W
+original_images/AFW
+original_images/HELEN
+original_images/IBUG
+original_images/LFPW
+crop_images
+
+prepare_data/.vscode
+prepare_data/*.lst
+prepare_data/*.rec
+
+mxnet/*.json
+mxnet/*.params
+mxnet/*.log
